@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## 实践第一天哈哈哈哈
 
 You can use the [editor on GitHub](https://github.com/xzling/myH5/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
